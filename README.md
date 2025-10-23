@@ -1,7 +1,7 @@
 <!--
 Commit message:
 :house: igorlazzaretti.com
-Update: Create htaccess for leituras
+Update: Create _redirects for leituras
  -->
 
 <div align="center"><img width="200" src="./assets/img/funko3.png"></div>
