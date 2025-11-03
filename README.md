@@ -1,6 +1,6 @@
 <!--
 :house: igorlazzaretti.com
-Update: Readme Redirect Retro Games -> games
+Update: Readme OG
  -->
 
 <div align="center"><img width="auto" src="./assets/readme/readme-banner.gif"></div>
