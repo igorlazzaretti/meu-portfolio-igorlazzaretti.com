@@ -1,6 +1,6 @@
 <!--
 :house: igorlazzaretti.com
-Update: Readme Update and Redirect Emojit, Ppoker
+Update: Readme Redirect Retro Games -> games
  -->
 
 <div align="center"><img width="auto" src="./assets/readme/readme-banner.gif"></div>
