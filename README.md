@@ -1,6 +1,6 @@
 <!--
 :house: igorlazzaretti.com
-Update: básico
+Update: Marketing e Retrogames
  -->
 
 <div align="center"><img width="auto" src="./assets/readme/readme-banner.gif"></div>
